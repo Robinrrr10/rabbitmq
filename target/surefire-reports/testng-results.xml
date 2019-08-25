@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.github.rabbitmq.AppTest" duration-ms="255" started-at="2019-08-25T21:52:35 IST" finished-at="2019-08-25T21:52:35 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="255" started-at="2019-08-25T21:52:35 IST" finished-at="2019-08-25T21:52:35 IST">
+      <class name="com.github.rabbitmq.AppTest">
+        <test-method status="PASS" signature="testProducer()[pri:1, instance:com.github.rabbitmq.AppTest@51081592]" name="testProducer" duration-ms="178" started-at="2019-08-25T21:52:35 IST" finished-at="2019-08-25T21:52:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProducer -->
+        <test-method status="PASS" signature="testConsumer()[pri:2, instance:com.github.rabbitmq.AppTest@51081592]" name="testConsumer" duration-ms="11" started-at="2019-08-25T21:52:35 IST" finished-at="2019-08-25T21:52:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsumer -->
+      </class> <!-- com.github.rabbitmq.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.github.rabbitmq.AppTest -->
+</testng-results>
